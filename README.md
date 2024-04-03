@@ -7,7 +7,6 @@
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact Information](#contact-information)
 
 ## Description
@@ -39,8 +38,6 @@ Upon launching the application, users can:
 ## Contributing
 Contributions to Clips are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Ensure that your code follows the established coding guidelines.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact Information
 For questions or inquiries about Clips, please contact:
